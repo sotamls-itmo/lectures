@@ -3,7 +3,7 @@ This repository contains all the presentations on lectures given at SOTAML Schoo
 
 # The list of presentations available currently (links to be updated)
 ## Day 1(discriminative DL models):
-1. Semion Polyakov -- Deep Learning Theory
+1. Semion Polyakov -- Deep Learning Theory Part I, Deep Learning Theory Part II
 2. Natalia Khanzhina -- SOTA in Computer vision
 3. Andrey Andrusenko -- Speech Recognition Theory
 ## Day 2(generative DL models):
